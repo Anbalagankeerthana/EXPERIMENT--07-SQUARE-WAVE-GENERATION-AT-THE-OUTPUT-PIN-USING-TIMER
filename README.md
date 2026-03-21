@@ -98,30 +98,43 @@ Step14. click on debug and simulate using simulation as shown below
 ## STM 32 CUBE PROGRAM :
 
 
-## Output screen shots of proteus  :
-<img width="964" height="951" alt="image" src="https://github.com/user-attachments/assets/2ae5e023-2d68-4c8d-84b9-c6306af8af00" />
 
-## 500 Pulse
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1d7da376-6a5a-484b-9aca-9a687f109c5d" />
+
+
+## Output screen shots of proteus  :
+<img width="964" height="951" alt="image" src="https://github.com/user-attachments/assets/bebce27e-0e57-4bbd-bd0e-e2b7e556df86" />
+# 500 Pulse
+ <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a8c6aa58-c943-4388-a302-ee1622e02781" />
+
  
+
  
-## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-<img width="1048" height="756" alt="image" src="https://github.com/user-attachments/assets/70e86138-3cf5-4afc-9ced-9b78277d16dd" />
- 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ <img width="1048" height="756" alt="image" src="https://github.com/user-attachments/assets/2a7ca4c4-5330-4f86-9fe8-fd4ee23d8cec" />
+
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-
-TON = 500 TOFF=500 TOTAL TIME = 1000 FREQUENCY = 1/(TOTAL TIME) =16.67 Hz
+TON = 500
+TOFF=500
+TOTAL TIME = 1000
+FREQUENCY = 1/(TOTAL TIME) =16.67 Hz
 
 FOR PULSE AT 700
 
-TON = 700 TOFF=300 TOTAL TIME = 1000 FREQUENCY = 1/(TOTAL TIME)=16 kHz
+TON = 700
+TOFF=300
+TOTAL TIME = 1000
+FREQUENCY = 1/(TOTAL TIME)=16 kHz
+
 
 FOR PULSE AT 900
 
-TON = 900 TOFF=100 TOTAL TIME = 1000 FREQUENCY = 1/(TOTAL TIME)=16 kHz
+TON = 900
+TOFF=100
+TOTAL TIME = 1000
+FREQUENCY = 1/(TOTAL TIME)=16 kHz
 
 
 ## Result :
